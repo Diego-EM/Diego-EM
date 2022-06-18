@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 📫 How to reach me **dmunozaguilar2000@gmail.com**
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 <h3 align="left">My Portfolio:</h3>
  👨‍💻 - https://diego-em.github.io/Portfolio/
 <h3 align="left">Connect with me:</h3>
