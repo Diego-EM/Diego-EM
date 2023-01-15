@@ -11,5 +11,3 @@
 <a href="https://www.linkedin.com/in/diego-enrique-mu%C3%B1oz-57b093236/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego-enrique-muñoz-57b093236" height="30" width="40" /></a>
 <a href="https://www.facebook.com/diego.munoz.790693/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diego.munoz.790693" height="30" width="40" /></a>
 </p>
-
-![diego-em GitHub stats](https://github-readme-stats.vercel.app/api?username=diego-em&show_icons=true&theme=algolia&border_radius=10&hide_rank=true)
